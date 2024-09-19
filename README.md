@@ -1,7 +1,3 @@
-Here’s a draft `README.md` for your GitHub repository `chrnthnkmutt/TempAnomaly_SARIMA` based on the provided content:
-
----
-
 # TempAnomaly_SARIMA
 
 This repository contains the code and documentation for the final project of the CPE232 course at King Mongkut's University of Technology Thonburi (KMUTT). The project focuses on forecasting global temperature anomalies using **ARIMA** and **SARIMA** models.
