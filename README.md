@@ -1,6 +1,6 @@
 # TempAnomaly_SARIMA
 
-This repository contains the code and documentation for the final project of the CPE232 course at King Mongkut's University of Technology Thonburi (KMUTT). The project focuses on forecasting global temperature anomalies using **ARIMA** and **SARIMA** models.
+This repository contains the code and documentation for making the predictive machine learning study, as focuses on forecasting global temperature anomalies using **ARIMA** and **SARIMA** models.
 
 ## Project Overview
 
